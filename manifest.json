@@ -4,5 +4,5 @@
     "documentation": "https://github.com/MattyRoy/loadshedding/blob/master/README.md",
     "requirements": [],
     "dependencies": [],
-    "codeowners": ["MattyRoy"]
+    "codeowners": ["@MattyRoy"]
 }
