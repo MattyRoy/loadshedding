@@ -1,8 +1,8 @@
 {
     "domain": "loadshedding",
     "name": "Eskom Loadshedding Sensor",
-    "documentation": "",
+    "documentation": "https://github.com/MattyRoy/loadshedding/blob/master/README.md",
     "requirements": [],
     "dependencies": [],
-    "codeowners": []
+    "codeowners": ["MattyRoy"]
 }
