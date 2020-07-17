@@ -1,0 +1,1 @@
+"""The Eskom Loadshedding Sensor."""

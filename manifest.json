@@ -1,0 +1,8 @@
+{
+    "domain": "loadshedding",
+    "name": "Eskom Loadshedding Sensor",
+    "documentation": "",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": []
+}
