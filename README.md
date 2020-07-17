@@ -11,7 +11,7 @@ Place the contents to the `custom_components` folder, if this does not exist the
 Add the following to your `configuration.yaml` file.
 
 ```
-sensors:
+sensor:
   - platform: loadshedding
     name: "Eskom loadshedding status"
 ```
