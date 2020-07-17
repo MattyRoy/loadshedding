@@ -5,7 +5,7 @@ This sensor fetches the current Eskom loadshedding status.
 
 # Installation
 
-Place the contents to the `custom_components` folder, if this does not exist then create one in your configuration directory.
+Place the contents into a `custom_components\loadshedding` folder, if either folder do not exist then create them in your configuration directory.
 
 # Configuration
 Add the following to your `configuration.yaml` file.
