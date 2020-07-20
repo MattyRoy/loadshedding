@@ -7,7 +7,7 @@ from homeassistant.const import CONF_NAME
 from homeassistant.components.sensor import PLATFORM_SCHEMA
 from homeassistant.helpers.entity import Entity
 
-__version__ = '0.1.0'
+__version__ = '0.0.1'
 
 _LOGGER = logging.getLogger(__name__)
 
